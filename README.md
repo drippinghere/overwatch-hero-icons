@@ -1,6 +1,6 @@
 # Overwatch Hero Icons
 * A collection of both normal and illustrated hero icons for use in personal and fan projects.
-* Includes all 50 heroes as of Season 1: Conquest (2026-02-10).
+* Includes all 51 heroes as of Season 2: Summit (2026-04-14).
 
 ## Legal / Disclaimer
 This repository is not affiliated with, endorsed, sponsored, or specifically approved by Blizzard Entertainment.
