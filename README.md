@@ -1,6 +1,6 @@
 # Overwatch Hero Icons
 * A collection of both normal and illustrated hero icons for use in personal and fan projects.
-* Includes all 51 heroes as of Season 2: Summit (2026-04-14).
+* Includes all 52 heroes as of Season 3: Into the Tiger's Den (2026-06-16).
 
 ## Legal / Disclaimer
 This repository is not affiliated with, endorsed, sponsored, or specifically approved by Blizzard Entertainment.
