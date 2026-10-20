@@ -1,6 +1,6 @@
 # Overwatch Hero Icons
 * A collection of both 2d and 3d hero icons for use in personal and fan projects.
-* Includes all 53 heroes as of Season 4: Heroes of Busan (2026-08-11).
+* Includes all 54 heroes as of Season 5: A Grim Doctrine (2026-10-06).
 
 ## Legal / Disclaimer
 This repository is not affiliated with, endorsed, sponsored, or specifically approved by Blizzard Entertainment.
